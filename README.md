@@ -17,16 +17,4 @@ https://camo.githubusercontent.com/71742919394a5db14fb703ff09952515775ce00b3f41b
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I’m currently learning ... 
-
-![Java Badge](http://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white) 
-![Python Badge](http://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) 
-![C Badge](http://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white) 
-![MySQL Badge](http://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
-![SpringBoot Badge](http://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white) 
-![Ubuntu Badge](http://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white)
-![HTML5 Badge](http://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white) 
-![JavaScript Badge](http://img.shields.io/badge/-JavaScript-F7DF1E?Style=flat-flat&logo=JavaScript&logoColor=white)
-
-![tkamo2006's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkamo2006&show_icons=true&theme=radical)
 
