@@ -1,7 +1,16 @@
-### Hi, I'm Yu Seong Han 👋
-<img src="https://velog.velcdn.com/images/yumjongeun/post/75724578-8901-48f9-8e60-ce42b454de08/image.png" style="width:500px;">
+<img src="https://velog.velcdn.com/images/yumjongeun/post/75724578-8901-48f9-8e60-ce42b454de08/image.png" style="width:1000px;">
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkamo2006)](https://solved.ac/tkamo2006/)
+<p align="center">
+  <a href="https://solved.ac/tkamo2006/">
+    <img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=tkamo2006&show_icons=true&theme=radical">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://solved.ac/tkamo2006/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tkamo2006" alt="Solved.ac Profile">
+  </a>
+</p>
 
 
 <!--
