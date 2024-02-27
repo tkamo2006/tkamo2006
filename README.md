@@ -1,4 +1,8 @@
 ### Hi, I'm Yu Seong Han 👋
+<img src="https://velog.velcdn.com/images/yumjongeun/post/75724578-8901-48f9-8e60-ce42b454de08/image.png" style="width:500px;">
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tkamo2006)](https://solved.ac/tkamo2006/)
+
 
 <!--
 **tkamo2006/tkamo2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
